@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5529f485468896343bea67ff04a49edb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - terrainData: {instanceID: 0}
+  - noiseData: {instanceID: 0}
+  - texturaData: {instanceID: 0}
+  - terrainMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

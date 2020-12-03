@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15ef89b65a5eba740a8ea87d5809e007, type: 3}
+  m_Name: Defult Texture
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  baseColours:
+  - {r: 0, g: 0.015195131, b: 1, a: 1}
+  - {r: 0.9473082, g: 1, b: 0.43867922, a: 1}
+  - {r: 0.028630257, g: 1, b: 0, a: 1}
+  - {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  baseStartHeights:
+  - 0
+  - 0.11
+  - 0.14
+  - 0.31
+  - 0.75
+  baseBlends:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
